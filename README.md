@@ -7,4 +7,5 @@ This second course teaches you advanced techniques to improve the computer visio
 <h2>Course 3-Natural Language Processing in TensorFlow</h2>
 In this third course, you’ll learn how to apply neural networks to solve natural language processing problems using TensorFlow. You’ll learn how to process and represent text through tokenization so that it’s recognizable by a neural network. You’ll be introduced to new types of neural networks, including RNNs, GRUs and LSTMs, and how you can train them to understand the meaning of text. Finally, you’ll learn how to train LSTMs on existing text to create original poetry and more!
 <h2>Course 4-Sequences, Time Series and Prediction</h2>
+In this fourth course, you will learn how to solve time series and forecasting problems in TensorFlow. You’ll first implement best practices to prepare data for time series learning. You’ll also explore how RNNs and ConvNets can be used for predictions. Finally, you’ll apply everything you’ve learned throughout the Specialization to build a sunspot prediction model using real-world data!
 
